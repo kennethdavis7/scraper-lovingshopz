@@ -2,7 +2,7 @@
 This scraper was developed to populate the initial product catalog for LovingShopz.
 
 Main project:
-https://github.com/yourusername/lovingshopz
+https://github.com/kennethdavis7/lovingshopz
 
 The scraper automatically:
 - Navigates Tokopedia product categories
