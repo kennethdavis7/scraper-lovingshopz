@@ -1,5 +1,5 @@
 # Scraper-lovingshopz
-This scraper was developed to populate the initial product catalog for LovingShopz.
+This scraper was developed to populate the initial product database for LovingShopz.
 
 Main project:
 https://github.com/kennethdavis7/lovingshopz
