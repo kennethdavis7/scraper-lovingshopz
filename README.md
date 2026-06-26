@@ -1,5 +1,8 @@
 # Scraper-lovingshopz
-The initial product catalog was collected using a custom Python web scraper built with Selenium and BeautifulSoup.
+This scraper was developed to populate the initial product catalog for LovingShopz.
+
+Main project:
+https://github.com/yourusername/lovingshopz
 
 The scraper automatically:
 - Navigates Tokopedia product categories
